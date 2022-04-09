@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gjgebhardt
 - 👀 I’m interested in audio plugins and virtual instruments, as well as generative music/audio and realtime audio-reactive graphics and animations.
 - 🌱 I’m currently learning Max MSP, JavaScript, the iPlug2 C++ audio plugin framework + always learning new things in Ableton Live.
-- 💞️ I’m looking to collaborate on anyting related to the above, especially ive audio/visual performance.
+- 💞️ I’m looking to collaborate on anyting related to the above, especially live audio/visual performance.
 - 📫 How to reach me: https://www.linkedin.com/in/garethgebhardt/
 
 <!---
